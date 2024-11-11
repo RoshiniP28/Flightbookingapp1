@@ -1,11 +1,11 @@
 # Flight Booking Application
 A full-stack application for searching and booking flights.
 
-#Functionality and Working of our project
+# Functionality and Working of our project
 This Project includes the steps where the User can book and cancel their tickets.
 
 ## Prerequisites
-##To install Node JS and MongoDB
+## To install Node JS and MongoDB
 - [Node.js](https://nodejs.org/) 
 - [MongoDB](https://www.mongodb.com/try/download/community) 
 
@@ -27,7 +27,7 @@ Open `http://localhost:3000` in your browser. Register or log in, search for fli
 - `GET /api/flights` - List available flights
 - `POST /api/flights` - Add a new flight (Admin only)
 
-#The entities in our project:
+# The entities in our project:
 1. Customer - The Customer is the one who can book and cancel their own tickets.
 2. Admin - The Admin is the one who focuses on adding flights and providing the approval for flight operators to view the application.
 3. Flight Operator -  This is the one who handles the entire functionality of the application by analysing the number of bookings done.
