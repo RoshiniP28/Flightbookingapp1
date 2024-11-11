@@ -45,11 +45,11 @@ Open `http://localhost:3000` in your browser. Register or log in, search for fli
 - Database: MongoDB
 - Authentication: JSON Web Tokens (JWT)
 
-##Connecting the Database
+## Connecting the Database
 - To install MongoDB compass in the system
 - Then go to connecting of the String.
 - Now try to make the changes within the server and then start to run your application
 
-##Running the application
+## Running the application
 - npm start
 - npm run dev
