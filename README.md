@@ -54,4 +54,4 @@ Open `http://localhost:3000` in your browser. Register or log in, search for fli
 - npm start
 - npm run dev
 ## Demo Video
-Demo - <a href="https://drive.google.com/drive/folders/1SFcQdXf70yT9xBYfnp9GSDBIEzisje-L">View Video</a>
+Demo - <a href="https://drive.google.com/drive/folders/1SFcQdXf70yT9xBYfnp9GSDBIEzisje-L?usp=sharing">View Video</a>
